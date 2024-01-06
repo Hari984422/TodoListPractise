@@ -1,0 +1,54 @@
+.dsip1 {
+  position: relative;
+  left: 80px;
+  top:100px;
+  height: 4rem;
+  width: 80vw;
+  box-shadow: 0px 0px 10px grey;
+  margin: 20px 0px ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 80px;
+  border-radius: 10px;
+}
+.dsip1  button{
+  padding: 7px 19px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  margin: 0px 3px;
+  color: white;
+}
+.options :first-child{
+  background-color: crimson;
+}
+.options :last-child{
+  background-color: skyblue;
+}
+.notes form{
+  height: 100px;
+  width: 98vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.notes input{
+  font-size: 20px;
+  height: 3rem;
+  width: 500px;
+}
+.notes button{
+  height: 3.4rem;
+  width: 5rem;
+}
+.notes{
+  height: 200px;
+  
+  background-image: url(https://img.freepik.com/free-photo/travel-concept-close-up-portrait-young-beautiful-attractive-redhair-girl-wtih-trendy-hat-sunglass-smiling-blue-pastel-background-copy-space_1258-128516.jpg?w=2000&t=st=1704537368~exp=1704537968~hmac=9b15e50d9ced30edfd3742b5b57b0608ed1ff92ae97334df4c2da2ad0fecb975);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
